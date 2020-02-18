@@ -1,0 +1,44 @@
+/* 共通 */
+
+
+/* headerとfooterのボタン */
+.nav{
+  display: inline-block;
+  list-style: none;
+}
+.nav :hover{
+  opacity: 0.8;
+  囲み
+}
+
+
+header{
+  h1 img {
+    width: 275px;
+    height: 35px;
+  }
+  nav {
+  position: relative;
+  max-width: 960px;
+  height: 270px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+}
+/* ここまでheader */
+
+
+body{
+  color: #333;
+  line-height: normal;
+  text-align: left;
+}
+
+.main{
+  margin: 0 auto;
+}
+
+.main about{
+  text-align: center;
+}
